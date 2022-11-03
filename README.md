@@ -6,7 +6,7 @@ FOR(initialize variable; condition; increment or decrement)
 {
   cout << statement[initialize variable];
   
-]
+}
 
 For the string to be reversed, the loop needs to increment up not down, for example:
 STRING -> G + N + I + R+ T+ S
@@ -23,3 +23,5 @@ else
 }
 
 
+# How a For Loop Works:
+(https://user-images.githubusercontent.com/115430338/199636089-c8936031-6126-41be-9467-975573a1fcb5.png)
