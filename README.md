@@ -25,3 +25,4 @@ else
 
 # How a For Loop Works:
 (https://user-images.githubusercontent.com/115430338/199636089-c8936031-6126-41be-9467-975573a1fcb5.png)
+![for_loop](https://user-images.githubusercontent.com/115430338/201457886-4204d8ad-ed45-42a2-be4c-9f9e03acadd5.png)
